@@ -1,0 +1,16 @@
+C:\Users\DELL\OneDrive\Desktop\projectvscode\bin\Debug\net5.0\projectvscode.exe
+C:\Users\DELL\OneDrive\Desktop\projectvscode\bin\Debug\net5.0\projectvscode.deps.json
+C:\Users\DELL\OneDrive\Desktop\projectvscode\bin\Debug\net5.0\projectvscode.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\projectvscode\bin\Debug\net5.0\projectvscode.runtimeconfig.dev.json
+C:\Users\DELL\OneDrive\Desktop\projectvscode\bin\Debug\net5.0\projectvscode.dll
+C:\Users\DELL\OneDrive\Desktop\projectvscode\bin\Debug\net5.0\ref\projectvscode.dll
+C:\Users\DELL\OneDrive\Desktop\projectvscode\bin\Debug\net5.0\projectvscode.pdb
+C:\Users\DELL\OneDrive\Desktop\projectvscode\obj\Debug\net5.0\projectvscode.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\projectvscode\obj\Debug\net5.0\projectvscode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\projectvscode\obj\Debug\net5.0\projectvscode.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\projectvscode\obj\Debug\net5.0\projectvscode.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\projectvscode\obj\Debug\net5.0\projectvscode.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\projectvscode\obj\Debug\net5.0\projectvscode.dll
+C:\Users\DELL\OneDrive\Desktop\projectvscode\obj\Debug\net5.0\ref\projectvscode.dll
+C:\Users\DELL\OneDrive\Desktop\projectvscode\obj\Debug\net5.0\projectvscode.pdb
+C:\Users\DELL\OneDrive\Desktop\projectvscode\obj\Debug\net5.0\projectvscode.genruntimeconfig.cache
